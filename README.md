@@ -47,7 +47,8 @@ ________________________________________________________________________________
                   A well-structured layout ensures that content is easy to find and visually pleasing. It creates a sense of order and hierarchy, guiding the user's eye to the most important information.
 
             Example:
-A website's homepage might have a prominent header with the logo and navigation bar at the top, a main content area in the center, and a footer with copyright information and contact details at the bottom.
+
+    A website's homepage might have a prominent header with the logo and navigation bar at the top, a main content area in the center, and a footer with copyright information and contact details at the bottom.
 
     - Navigation: 
                Shows how users will move through the site or application.
@@ -55,7 +56,8 @@ A website's homepage might have a prominent header with the logo and navigation 
               Clear and intuitive navigation helps users move effortlessly through the website or application. It reduces frustration and improves user experience.
 
              Example:
-A website might have a primary navigation bar with main categories like "Home," "About," "Products," and "Contact." Secondary navigation could appear within specific pages, offering more granular options.
+
+    A website might have a primary navigation bar with main categories like "Home," "About," "Products," and "Contact." Secondary navigation could appear within specific pages, offering more granular options.
 
 
     - Content Placement: 
@@ -63,8 +65,9 @@ A website might have a primary navigation bar with main categories like "Home," 
 
                 Strategic content placement enhances readability and engagement. By placing important content prominently, designers can draw users' attention to key information.
 
-            Example:        
- An e-commerce product page might have a large hero image at the top, followed by a detailed product description, customer reviews, and a "Add to Cart" button.           
+            Example:    
+                
+    An e-commerce product page might have a large hero image at the top, followed by a detailed product description, customer reviews, and a "Add to Cart" button.           
 
     - Functionality: 
                Outlines key functionalities and interactions.
@@ -72,7 +75,8 @@ A website might have a primary navigation bar with main categories like "Home," 
                Well-designed buttons, forms, and links make it easy for users to interact with the website or application, completing tasks efficiently.
             
             Example: 
-A login form might have input fields for username and password, a "Login" button, and a "Forgot Password" link.
+
+    A login form might have input fields for username and password, a "Login" button, and a "Forgot Password" link.
 
 __________________________________________________________________________________________________
 
@@ -94,5 +98,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________
 
-A high fidelity wireframe (or hi fi wireframe):
+The BNB wIreframe is a high fidelity wireframe (or hi fi wireframe):
 
+The figma design reflects how a website or app will look in the hand of the user. It includes all the content, stylistic elements, editorial text, and branding that the finished product will include to really convey what a product will look like.
